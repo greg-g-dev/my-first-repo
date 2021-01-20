@@ -228,5 +228,9 @@ footer span {
     flex-flow: row nowrap;
   }
 
+  nav {
+    width: 40%;
+  }
+
 
 }
